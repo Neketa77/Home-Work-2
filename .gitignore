@@ -1,0 +1,7 @@
+# игнорируем каталог tmp
+tmp/
+# игнорируфем файлы _old, _backup
+*.old
+*.backup
+Thumbs.db
+.DS_Store
